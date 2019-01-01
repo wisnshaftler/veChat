@@ -15,9 +15,11 @@ This is simple nodejs socketIO and apache cordova chat app run on windows, andro
 
 3- open cmd and locate to node_server folder and enter this command:- nodemon app.js
 
-4- open vChat\www folder and press shift+mouse right click then choose Open command window here.
+4- create a new directory and open cmd locate to new directory and give this command:- cordova create veChat com.wisnshaftler.veChat
 
-5- enter this commands :-
+5- download veChat and extract www to step 4 directory/www folder.
+
+6- enter this commands :-
    cordova platform add browser    //for browser application
    cordova platform add android    //for android application
    cordova build android
@@ -25,4 +27,4 @@ This is simple nodejs socketIO and apache cordova chat app run on windows, andro
    
    [You must have installed android SDK API 27 or higher for this]
  
-6- Done! You can find android apk file in veChat\platforms\android\app\build\outputs\apk\debug or if you build for browser you can see        webbrowser mode in your default browser.
+7- Done! You can find android apk file in veChat\platforms\android\app\build\outputs\apk\debug or if you build for browser you can see        webbrowser mode in your default browser.
