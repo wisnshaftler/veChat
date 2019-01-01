@@ -5,7 +5,7 @@ This is simple nodejs socketIO and apache cordova chat app run on windows, andro
                                          Installing and create android app.
 -----------------------------------------------------------------------------------------------------------
 
-1- First you need download Android SDK and jdk1.8 Apache cordova and nodeJS with nodemon and socketIO.(If you have Android Studio and it      works correct you dont need Android SDK and jdk)
+1- First you need download Android SDK and jdk1.8 Apache cordova and nodeJS with nodemon and socketIO and gradle.(If you have Android Studio and it      works correct you dont need Android SDK and jdk)
     (download Android SDK and jdk1.8 https://drive.google.com/drive/folders/1jAqr5yN0dtwItNjSSsCR4Xt4GyVcikJ-?usp=sharing and install)
     [set jdk and android SDK path in your computer]
 
